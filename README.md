@@ -1,1 +1,1 @@
-# Nihanth W. Cherukuru, PhD
+# Nihanth W. Cherukuru
