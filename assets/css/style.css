@@ -51,3 +51,18 @@ section{padding:1.25rem 0; border-bottom:1px solid var(--border)}
 .social{list-style:none; padding:0; margin:.5rem 0 0 0; display:flex; flex-direction:column; gap:.25rem}
 .social a{color:#cfd8ff}
 .social a:hover{color:#ffffff; text-decoration:none}
+
+
+/* === Typography Update: Open Sans === */
+body {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+  color: #222;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 600;
+  color: #111;
+  letter-spacing: 0.02em;
+}
